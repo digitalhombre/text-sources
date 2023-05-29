@@ -1,0 +1,43 @@
+An individual's clothing has one Tops slot, one Bottoms slot, one Outerwear slot, one Footwear slot and two Accessories slot (meaning that an individual may wear two accessories). Items in the 'Dresses and Jumpsuits' category take up both a Tops and a Bottoms slot. The combination of these items represents what the individual is wearing (their outfit). To decide upon an individual's outfit, choose one item from the arrays below for each slot. Determine what the individual is likely to wear based on their background, culture and personality and choose accordingly.
+
+Tops:
+["Basic T-shirt in white with a small logo on the chest",
+"Graphic tee featuring a vintage-inspired band design",
+"Button-up blouse with floral print and ruffled sleeves",
+"Chunky knit sweater in neutral tones",
+"Hoodie with a front pocket and drawstring in heather gray"]
+
+Bottoms:
+["Skinny jeans in medium wash with distressed details",
+"Denim shorts in a high-rise cut with frayed hem",
+"Black leggings with a wide waistband for comfort",
+"Khaki pants in a slim fit style",
+"Floral printed skirt with a flared silhouette"]
+
+Dresses and Jumpsuits:
+["Casual midi dress in a solid color with short sleeves",
+"Floral sundress with a tie-back detail and spaghetti straps",
+"Little black dress with a fitted bodice and flared skirt",
+"Denim romper with adjustable straps and front pockets"]
+
+Outerwear:
+["Light wash denim jacket with a cropped length",
+"Faux leather biker jacket with metal hardware",
+"Quilted parka coat with a fur-lined hood",
+"Classic beige trench coat with a belted waist"]
+
+Footwear:
+["White canvas sneakers with a rubber sole",
+"Black ballet flats with a bow detail",
+"Ankle boots in brown suede with a stacked heel",
+"Strappy sandals with metallic accents",
+"Black high heels with a pointed toe"]
+
+Accessories:
+["Canvas backpack in navy blue with multiple pockets",
+"Statement necklace with geometric pendant",
+"Patterned silk scarf in vibrant colors",
+"Skinny belt in cognac brown with a gold buckle",
+"Cat-eye sunglasses with tortoiseshell frames",
+"Rose gold watch with a mesh strap"]
+
